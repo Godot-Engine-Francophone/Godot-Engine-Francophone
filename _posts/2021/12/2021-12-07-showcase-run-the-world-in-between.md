@@ -7,7 +7,7 @@ type: Jeu
 logo: 2021-12-07-showcase-run-the-world-in-between.gif
 nsfw: false
 tags:
-  - Team Run 
+  - Team RUN 
 categories: showcase
 lien: https://store.steampowered.com/app/1548940/RUN_The_world_inbetween/
 ---
