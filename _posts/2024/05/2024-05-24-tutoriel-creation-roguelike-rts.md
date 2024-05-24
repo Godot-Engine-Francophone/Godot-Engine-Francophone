@@ -8,6 +8,8 @@ by: Sergio Matsumoto
 tags:
 - Godot 4
 - Youtube
+- RTS
+- Roguelike
 niveau: Intermédiaire
 icon: "film"
 ---
