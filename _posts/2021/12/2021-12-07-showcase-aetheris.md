@@ -9,7 +9,7 @@ nsfw: false
 tags:
   - Wild wits Games
 categories: showcase
-lien: https://www.kickstarter.com/projects/wild-wits-games/aetheris-the-game/
+lien: https://store.steampowered.com/app/1786010/AETHERIS/
 ---
 
 Il n'y a aucun contenu pour les ressources.

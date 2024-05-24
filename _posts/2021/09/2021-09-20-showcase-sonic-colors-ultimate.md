@@ -9,7 +9,7 @@ nsfw: false
 tags:
   - Sega 
 categories: showcase
-lien: https://www.epicgames.com/store/fr/p/sonic-colors-ultimate
+lien: https://store.steampowered.com/app/2055290/Sonic_Colors_Ultimate/
 ---
 
 Il n'y a aucun contenu pour les ressources.
