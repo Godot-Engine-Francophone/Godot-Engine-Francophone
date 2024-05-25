@@ -8,6 +8,7 @@ by: BabaDesBois
 tags:
 - Godot 4
 - Youtube
+- 2D
 niveau: Facile
 icon: "book-open"
 ---

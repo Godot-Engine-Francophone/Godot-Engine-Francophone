@@ -8,6 +8,8 @@ by: Mina Pêcheux
 tags:
 - Godot 4
 - Youtube
+- tileset
+- 2D
 niveau: Facile
 icon: "book-open"
 ---

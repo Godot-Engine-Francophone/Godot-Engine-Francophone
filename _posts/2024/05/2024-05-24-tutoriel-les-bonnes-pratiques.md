@@ -8,6 +8,8 @@ by: BabaDesBois
 tags:
 - Godot 4
 - Youtube
+- Shader
+- Astuces
 niveau: Intermédiaire
 icon: "book-open"
 ---
@@ -21,7 +23,7 @@ Cette playlist se découpe en 4 vidéos. Chacune des vidéos de cette playlist v
 - Ce qu'il ne faut pas faire
 - Les bonnes pratiques
 - Créer, émettre et écouter un signal
-- Le pattern Event Busa
+- Le pattern Event Bus
 
 ### Épisode 2
 - Présentation du projet exemple
