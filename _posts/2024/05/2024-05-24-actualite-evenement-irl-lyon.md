@@ -1,5 +1,5 @@
 ---
-title: Faire un jeu avec Godot à Lyon
+title: Faire un jeu avec Godot à Lyon [Terminé]
 
 layout: actualite
 description: >-
