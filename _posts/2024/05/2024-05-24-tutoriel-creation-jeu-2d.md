@@ -67,5 +67,5 @@ Merci à "Le Déformateur" pour ce tutoriel
 
 # Découverte de Godot Engine 4
 <div class="embed-container">
-<iframe src="https://www.youtube.com/embed/pKjhV6HPPU8?si=RjhRbBFrZhVDJu9_&list=PLbEtFK5YvXKV622OTNEczg9wl_MzwDULR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pWqBnoEN97I?si=qN2otz_IIpxDLRuk&list=PLmJcc8RM3uvAWElGG8kjF6mnF3NbOLYgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
