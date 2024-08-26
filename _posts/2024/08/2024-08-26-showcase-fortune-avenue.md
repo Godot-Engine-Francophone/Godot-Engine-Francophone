@@ -7,7 +7,7 @@ type: Jeu
 logo: 2024-08-26-showcase-fortune-avenue.gif
 nsfw: false
 tags:
-  - Fortune Avenue
+  - Binogure Studio
 categories: showcase
 lien: https://store.steampowered.com/app/1810050/Fortune_Avenue/
 ---
