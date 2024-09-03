@@ -13,4 +13,5 @@ Date de l'évènement: Date a laquelle l'évènement aura lieu
 Lieu: Nom de la ville ou sur Internet si c'est sur internet
 Description: Description de l'évènement. Qui l'organise, pourquoi, et ce qu'on y fait.
 ----
-Veuillez écrire ici le tutoriel au complet au format markdown. Vous pouvez inclure des images et des vidéos.
+Veuillez écrire ici la description complete de l'évènement. 
+L'objectif, la durée, les organisateurs bref tout ce qui pourrait être utile pour s'y rendre et donner envie de s'y rendre
